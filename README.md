@@ -8,10 +8,10 @@ https://alexjalva.github.io/Password-Generator/
 ## Installation
  Files can be downloaded at : https://alexjalva.github.io/Password-Generator/
 
- All files needed are contained within the repository. The main folder needs to include the develop folder and all 3 files. As long as all files are included, and placed in that order, the html should be able to run functions from the script file. 
+ All files needed are contained within the repository. The main folder needs to include the index.html, script.js, and style.css. As long as all files are included, and placed in that order, the html should be able to run functions from the script file. 
 
  ## Usage
- ##How to access the page
+ ### How to access the page
 Webpage can be loaded based off of html in main repository. 
 
 ### How to Navigate the Website
