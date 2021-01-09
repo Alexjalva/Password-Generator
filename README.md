@@ -41,10 +41,10 @@ The content will be viewable on each page, and will resize depending on screen s
 ![Password Display](Assets/03-Javascript-homework-demo.png)
 Password Display - The generated password will be displayed in the center of the page where the generate password text is originally.
 
-##Credits
+## Credits
 Original page was created by Alexander Alvarado
 
-##License
+## License
 MIT License
 
 Copyright (c) 2020 Alexander Alvarado 
